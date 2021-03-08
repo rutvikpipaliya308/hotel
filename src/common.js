@@ -10,4 +10,4 @@ module.exports = {
   pidFile: path.join(hotelDir, 'daemon.pid'),
   logFile: path.join(hotelDir, 'daemon.log'),
   startupFile: path.join(hotelDir, 'startup')
-}
+
